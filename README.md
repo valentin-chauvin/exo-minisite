@@ -1,3 +1,5 @@
+Use MAMP
+
 # Sass and PHP files
 
 ## First install
