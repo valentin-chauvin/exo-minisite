@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <?php include 'partials/meta.php';  ?>
-        <title>This is a beautiful website</title>
+        <title>Exercice Minisite</title>
 
     </head>
     <body class="text-center">

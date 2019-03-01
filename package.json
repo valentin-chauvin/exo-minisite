@@ -1,9 +1,9 @@
 {
   "name": "zebra",
   "scripts": {
-    "build": "NODE_ENV=production webpack --mode production",
-    "build:dev": "NODE_ENV=development webpack --mode development",
-    "watch": "NODE_ENV=development webpack --watch --mode development"
+    "build": " webpack --mode production",
+    "build:dev": " webpack --mode development",
+    "watch": " webpack --watch --watch-poll --mode development"
   },
   "repository": {
     "type": "git"

@@ -14,8 +14,8 @@ module.exports = {
     extensions: ['.js'],
   },
   output: {
-    path: path.resolve('./public/build/'),//Edit here
-    publicPath: '/public/build/',//Edit here
+    path: path.resolve('./public/build/'),
+    publicPath: '/exo-minisite/public/build/',//Edit here
     filename: '[name].js',
   },
   plugins: [new MiniCssExtractPlugin()],
@@ -53,7 +53,6 @@ module.exports = {
             loader: 'style-resources-loader',
             options: {
               patterns: [
-                path.resolve(__dirname, 'node_modules/bootstrap/scss/bootstrap.scss'),
               ],
             },
           },
