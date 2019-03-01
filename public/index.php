@@ -50,10 +50,6 @@
               <li><a href="#" title=""></a></li>
               <li><a href="#" title=""></a></li>
             </ul>
-
-            <div>
-
-            </div>
           </div>
         </div>
       </div>
