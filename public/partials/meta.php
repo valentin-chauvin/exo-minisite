@@ -3,5 +3,7 @@
 <meta name="description" content="">
 <meta name="author" content="Sergio Mendolia">
 
-<link href="build/bundle.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.flexslider-min.js"></script>
+
 <script src="build/bundle.js"></script>
